@@ -104,7 +104,7 @@ body {
   object-fit: cover;
   border-radius: 50%;
   border: 6px solid var(--blue);
-
+box-shadow: 0 10px 20px var(--shadow);
 }
 
 /* ABOUT */
@@ -163,7 +163,7 @@ body {
 
 .projects-grid {
   display: grid;
- 
+  grid-template-columns: repeat(auto-fit, minmax(330px, 1fr));
   gap: 2rem;
 }
 
