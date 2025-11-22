@@ -9,8 +9,9 @@
   --blue: #3b82f6;
   --blue-light: #e0f0ff;
   --blue-dark: #1e3a8a;
-
-  
+  --white: #ffffff;
+  --gray: #444;
+  --shadow: rgba(0, 0, 0, 0.15);
 
   --radius: 20px;
 }
