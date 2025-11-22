@@ -74,4 +74,12 @@ To make this portfolio your own:
   /* ... */
 }
 ```
-* Screenshorts 
+* Screenshorts
+<img width="1885" height="921" alt="Screenshot 2025-11-22 181131" src="https://github.com/user-attachments/assets/00a58406-b393-4b5b-aedf-a25b81245bc7" />
+
+<img width="1870" height="911" alt="Screenshot 2025-11-22 200233" src="https://github.com/user-attachments/assets/fa325fea-5315-41b0-8f5e-6943e615d76a" />
+
+<img width="1885" height="907" alt="Screenshot 2025-11-22 181144" src="https://github.com/user-attachments/assets/d61c8342-1bb4-4a2d-a682-46c7a99d9cc6" />
+
+<img width="1866" height="912" alt="Screenshot 2025-11-22 181157" src="https://github.com/user-attachments/assets/30064f20-271b-4968-8f8e-77b939fe599d" />
+
